@@ -1,0 +1,4 @@
+'Escribe los números RGB para el fondo, por defecto hemos puesto R=180, G=65, B=65'
+35
+36
+113

@@ -1,0 +1,20 @@
+'Escribe los mensajes para cada imagen, pero no te exageres en su extensión'
+'\color{ffff00}{1950 Test de Turing}\n\n Examen de la capacidad de una máquina para exhibir un comportamiento inteligente similar al de un ser humano o indistinguible de éste, propuesto por \nAlan Turing.'
+'\color{ffff00}{1955 John McCarthy}\n\nResponsable de introducir el término “inteligencia artificial”, concepto que acuñó en la Conferencia de Dartmouth en 1956. También se le atribuye el concepto de cloud computing.'
+
+'\color{ffff00}{1961 Unimate}\n\nPrimer robot industrial, creado por George Devol,​ se instaló en una cadena de montaje de General Motors, transportando las piezas fundidas en molde  y soldándolas en el chasis \ndel vehículo.'
+'\color{ffff00}{1964 ELIZA}\n\n Programa diseñado en el MIT por Joseph Weizenbaum. Fue uno de los primeros programas en procesar lenguaje natural, intentaba mantener una conversación de texto coherente con el usuario'
+
+'\color{ffff00}{1969 Shakey}\n\nPrimer robot móvil de propósito general capaz de razonar sobre sus propias acciones. Podía analizar los comandos y dividirlos en partes básicas\n por sí mismo.'
+'\color{ffff00}{1997 Deep Blue}\n\nuna Supercomputadora desarrollada por IBM para jugar al ajedrez. Fue la primera que venció a un campeón del mundo vigente, Gary Kaspárov, con un ritmo de juego lento.'
+
+'\color{ffff00}{1998 Robot Kismet}\n\n Robot que solo posee cabeza, creado en el MIT por Cynthia Breazeal como un experimento en informática afectiva; un robot que puede reconocer y simular emociones.'
+'\color{ffff00}{1999 Robot AIBO}\n\nEl AIBO (amigo o compañero en japonés) es una serie de mascotas robóticas diseñadas y fabricadas por Sony.'
+
+'\color{ffff00}{2002 Robot Roomba}\n\nAspiradora fabricada por iRobot, incluye sensores (táctiles, ópticos y acústicos) que le permite, entre otras cosas, detectar obstáculos, acumulaciones de residuos en el suelo y desniveles pronunciados tales \ncomo escaleras.'
+'\color{ffff00}{2011 SIRI}\n\n \color{00ff00}{IA} asistente personal de Apple. Usa procesamiento del lenguaje natural para responder preguntas, hacer recomendaciones y realizar acciones mediante la delegación de \nsolicitudes.'
+'\color{ffff00}{2011 IBM Watson}\n\n\color{00ff00}{IA} de IBM capaz de responder a preguntas formuladas en lenguaje natural, gracias a una base de datos que incluye enciclopedias, diccionarios, artículos de noticias, entre otras fuentes.'
+'\color{ffff00}{2014 Alexa}\n\n\color{00ff00}{IA} asistente personal de Amazon, utilizado por primera vez en el altavoz inteligente Amazon Echo, controla dispositivos inteligentes compatibles con el sistema, como focos, cámaras de vigilancia e interruptores inteligentes.'
+'\color{ffff00}{2014 Eugene Goostman}\n\n \color{00ffff}{chatbot} retratado como un niño ucraniano de 13 años de edad, un rasgo que pretende inducir perdón en los usuarios por su gramática y el nivel de conocimiento.'
+'\color{ffff00}{2016 Tay}\n\n\color{00ffff}{chatbot} para la plataforma de Twitter creado por  Microsoft, causó controversia por entregar mensajes ofensivos y fue dado de baja después de 16 horas de \nlanzamiento.'
+'\color{ffff00}{2017 Alphago}\n\nPrograma de inteligencia artificial desarrollado por Google DeepMind para jugar al juego de mesa Go. En 2015 se convirtió en la primera máquina en ganar a un jugador profesional \nde Go.'

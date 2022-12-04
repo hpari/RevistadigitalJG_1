@@ -1,0 +1,2 @@
+'Escribe el n�mero de preguntas a realizar, debe ser menor o igual al tama�o del banco '
+10

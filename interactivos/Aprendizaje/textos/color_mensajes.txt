@@ -1,0 +1,4 @@
+'Escribe los números RGB para los mensajes, por defecto hemos puesto R=255, G=255, B=0'
+255
+255
+255
